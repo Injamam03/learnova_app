@@ -14,6 +14,10 @@ import 'package:get/get.dart';
 
 
 class AppRoute {
+
+
+
+  
   ///==================== Initial Routes ====================
   static const String loginScreen = "/loginScreen";
   static const String createAcccount = "/createAcccount";
